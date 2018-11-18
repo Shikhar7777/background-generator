@@ -1,0 +1,45 @@
+img:hover
+{
+	width:500px;
+	height: 300px;
+	margin:10px;
+	transform-origin: left-top;
+	transition: transform 1s;
+}
+img:hover
+{
+transform: scale(1.1,.99);
+}
+img
+{
+	align-items: center;
+	width:500px;
+	height: 300px;
+	border: 3em;
+}
+.carousel slide
+{
+	width:500px;
+	height: 300px;
+}
+.flagship
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+
+}
+h1
+{
+	font-family:fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid red;
+	text-align: center;
+	border-right: 2px solid red;
+}
+h2
+{
+	font-family:monospace;
+	font-size: 3em;
+	text-align: center;
+}
